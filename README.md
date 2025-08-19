@@ -19,7 +19,11 @@ O desafio final implementa a comparação entre duas cartas. O programa calcula 
 1. No arquivo `main.c`, **descomente o bloco de código do Nível** que você deseja executar e certifique-se de que os outros níveis estão com `/*` e `*/`.
 2. Abra o terminal na pasta do projeto no VS Code.
 3. Use o comando `gcc` para compilar o código:
+   '''bash
    gcc main.c -o supertrunfo
-4. Execute o programa compilado:
-
+   '''
+5. Execute o programa compilado:
+   '''bash
    .\supertrunfo.exe
+   '''
+
